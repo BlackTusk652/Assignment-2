@@ -65,5 +65,5 @@ p = A\q'
 % pause(10);
 % end
 % % %%this code stop running at h = 10^-5 and errors itself (ie when h is less
-% % %%than 10^-4
+% % %%%than 10^-4
 end 
